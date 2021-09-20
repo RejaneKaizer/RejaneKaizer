@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RejaneKaizer
-- 👀 I’m interested in  Program.ar em Python
-- 🌱 I’m currently learning  Python Avançado, HTML, PyQT5, MySQL, DAO, Django
-- 💞️ I’m looking to collaborate on  Python Jr.
+- 👀 I’m interested in program in python.
+- 🌱 I’m currently learning advanced python, HTML5, PyQT5, MySQL, DAO, Django, CSS3.
+- 💞️ I’m looking to collaborate on Python Jr.
 - 📫 How to reach me ...
 
 <!---
